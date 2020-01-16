@@ -1,0 +1,8 @@
+{
+	"name": "VU Golf Cart Website",
+	"short_name": "VU Golf Cart",
+	"start_url": "/",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#FFFFFF"
+}
