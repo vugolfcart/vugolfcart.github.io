@@ -21,6 +21,16 @@ module.exports = {
         slug: `/about`,
       },
     ],
+    externalLinks: [
+      {
+        name: `Github`,
+        url: `https://www.github.com/vugolfcart`
+      },
+      {
+        name: `Instagram`,
+        url: `https://www.instagram.com/vugolfcart/`
+      }
+    ],
   },
   plugins: [
     {
